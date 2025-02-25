@@ -1,1 +1,2 @@
-Print("BismiLlaah")
+print("BismiLlaah")
+print("Assalaamu 'alaykum")
